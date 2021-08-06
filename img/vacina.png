@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<!-- saved from url=(0083)https://coronavirus.saude.mg.gov.br/blog/229-vacinacao-coronavac-astrazeneca-oxford -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-br" lang="pt-br" dir="ltr" class="uk-notouch"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                <!-- head -->
+        <!--<base href="https://coronavirus.saude.mg.gov.br/blog/229-vacinacao-coronavac-astrazeneca-oxford">--><base href=".">
+	
+	<meta name="keywords" content="vacina, covid-19, coronavírus, coronavac, sinovac, astrazeneca, oxford, imunidade, imunização">
+	<meta name="author" content="Vitor Yukio Ninomiya">
+	<meta name="description" content="A vacina contra a covid-19 já está com data marcada para vir ao Brasil, mas você sabe como elas funcionam no nosso organismo?">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>VACINAÇÃO COVID-19: CORONAVAC E ASTRAZENECA/OXFORD</title>
+	<link href="https://coronavirus.saude.mg.gov.br/images/headers/icone2.png" rel="shortcut icon" type="image/vnd.microsoft.icon">
+	<link href="./vacina_files/content.css" rel="stylesheet" type="text/css">
+	<link href="./vacina_files/css" rel="stylesheet" type="text/css">
+	<link href="./vacina_files/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<link href="./vacina_files/font-awesome.min.css" rel="stylesheet" type="text/css">
+	<link href="./vacina_files/legacy.css" rel="stylesheet" type="text/css">
+	<link href="./vacina_files/template.css" rel="stylesheet" type="text/css">
+	<link href="./vacina_files/preset4.css" rel="stylesheet" type="text/css" class="preset">
+	<link href="./vacina_files/custom.css" rel="stylesheet" type="text/css">
+	<link href="./vacina_files/frontend-edit.css" rel="stylesheet" type="text/css">
+	<link href="./vacina_files/wk-styles-3c4c6bea.css" rel="stylesheet" type="text/css" id="wk-styles-css">
+	<style type="text/css">
+body{font-family:Open Sans, sans-serif; font-size:16px; font-weight:300; }
+h1{font-family:Open Sans, sans-serif; font-weight:800; }
+h2{font-family:Open Sans, sans-serif; font-size:16px; font-weight:600; }
+h3{font-family:Open Sans, sans-serif; font-weight:normal; }
+h4{font-family:Open Sans, sans-serif; font-weight:normal; }
+h5{font-family:Open Sans, sans-serif; font-weight:600; }
+h6{font-family:Open Sans, sans-serif; font-weight:600; }
+.sp-megamenu-parent{font-family:Open Sans, sans-serif; font-weight:300; }
+label { display: none; }
+body {
+    font-weight: 500;
+}
+h2 {text-transform: uppercase; }
+
+.form-search label, .form-inline label, .form-search .btn-group, .form-inline .btn-group {
+    display: none;
+}
+
+#sp-bottom .sp-module .sp-module-title {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 17px;
+    margin-top: 20px;
+}
+
+.sp-module { margin-top: 20px;}
+.sp-module:first-child { margin-top: 10;}
+article.item { margin-bottom: 20px;}
+
+.sp-module .sp-module-title {
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+article.item {
+   border-bottom: 2px solid #f5f5f5;
+}
+
+.entry-header h2 {
+    font-size: 28px;
+    font-weight: 700; }
+
+ul.social-icons { font-size: 18px; }
+
+.sp-megamenu-parent {
+    font-size: 14px;
+}
+.entry-header h2 a {
+    color: #000;
+    font-size: 16px;
+    font-weight: 600;
+}
+div.tc_latestnews .news-item .post_category, div.tc_latestnews .news-item.grid .post_category {
+    margin-top: 5px;
+}
+
+.breadcrumb {
+    margin-bottom: 10px;
+    text-transform: lowercase;
+}
+.btn-default {
+    color: #FFF;
+    background-color: #be1f2e;
+    border-color: #ccc;
+    border-radius: 4px;
+    border: 0px solid transparent;
+}
+
+.btn { border-radius: 4px;
+       border: 0px solid transparent;
+   }
+.google-plus {display: none;}
+#sp-top-bar{ background-color:#f5f5f5;color:#999999; }
+#sp-banner-blog{ padding:10; }
+#sp-main-body{ padding:5px 0; }
+#sp-bottom{ background-color:#f5f5f5;padding:30px 0px; }
+#sp-footer{ background-color:#7d7d7d; }
+	</style>
+	<script type="text/javascript" async="" src="./vacina_files/analytics.js.download"></script><script src="./vacina_files/jquery.min.js.download" type="text/javascript"></script>
+	<script src="./vacina_files/jquery-noconflict.js.download" type="text/javascript"></script>
+	<script src="./vacina_files/jquery-migrate.min.js.download" type="text/javascript"></script>
+	<script src="./vacina_files/caption.js.download" type="text/javascript"></script>
+	<script src="./vacina_files/bootstrap.min.js.download" type="text/javascript"></script>
+	<script src="./vacina_files/jquery.sticky.js.download" type="text/javascript"></script>
+	<script src="./vacina_files/main.js.download" type="text/javascript"></script>
+	<script src="./vacina_files/frontend-edit.js.download" type="text/javascript"></script>
+	<script src="./vacina_files/uikit2-950bbb39.js.download" type="text/javascript"></script>
+	<script src="./vacina_files/wk-scripts-c5e44a89.js.download" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+var sp_preloader = '0';
+
+var sp_gotop = '1';
+
+var sp_offanimation = 'default';
+
+	</script>
+	<meta property="og:url" content="https://coronavirus.saude.mg.gov.br/blog/229-vacinacao-coronavac-astrazeneca-oxford">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="VACINAÇÃO COVID-19: CORONAVAC E ASTRAZENECA/OXFORD">
+	<meta property="og:description" content="Autor*: Vitor Yukio Ninomiya Com o início da vacinação contra o novo coronavírus (SARS-CoV-2) no Brasil , muito provavelmente você já deve ter procurado po...">
+	<meta property="og:image" content="https://coronavirus.saude.mg.gov.br/images/2021/06/06/Captura de Tela 2021-06-05 às 22.43.23.png">
+	<meta property="og:image:width" content="600">
+	<meta property="og:image:height" content="315">
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="./vacina_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-168898856-1');
+</script>
+    </head>
+
+    <body class="site com-content view-article no-layout no-task itemid-197 pt-br ltr  sticky-header layout-fluid off-canvas-menu-init">
+
+        <div class="body-wrapper">
+            <div class="body-innerwrapper">
+                <section id="sp-top-bar"><div class="container"><div class="row"><div id="sp-top1" class="col-xs-6 col-sm-6 col-md-6"><div class="sp-column "><ul class="social-icons"><li><a target="_blank" href="https://www.facebook.com/SaudeMG" aria-label="facebook"><i class="fa fa-facebook"></i></a></li><li><a target="_blank" href="https://twitter.com/saudemg" aria-label="twitter"><i class="fa fa-twitter"></i></a></li><li><a target="_blank" href="https://www.youtube.com/user/saudemg" aria-label="youtube"><i class="fa fa-youtube"></i></a></li><li><a target="_blank" href="https://br.linkedin.com/company/saudemg" aria-label="linkedin"><i class="fa fa-linkedin"></i></a></li><li><a target="_blank" href="https://www.instagram.com/saudemg/"><i class="fa fa-instagram"></i></a></li></ul></div></div><div id="sp-top2" class="col-xs-6 col-sm-6 col-md-6"><div class="sp-column "><ul class="sp-contact-info"><li class="sp-contact-phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:LigMinas155"> Lig Minas 155</a></li></ul></div></div></div></div></section><div class="nav-placeholder" style="height: 90px;"></div><header id="sp-header" class="animated menu-fixed"><div class="container"><div class="row" style="position: relative;"><div id="sp-logo" class="col-xs-8 col-sm-3 col-md-3"><div class="sp-column "><div class="logo"><a href="https://coronavirus.saude.mg.gov.br/"><img class="sp-default-logo hidden-xs" src="./vacina_files/logo-coronavirus-m.png" alt="Coronavírus - SES/MG"><img class="sp-retina-logo hidden-xs" src="./vacina_files/logo-coronavirus-g.png" alt="Coronavírus - SES/MG" width="344" height="50"><img class="sp-default-logo visible-xs" src="./vacina_files/logo-coronavirus-m.png" alt="Coronavírus - SES/MG"></a></div></div></div><div id="sp-menu" class="col-xs-4 col-sm-9 col-md-9" style="position: static;"><div class="sp-column ">			<div class="sp-megamenu-wrapper">
+				<a id="offcanvas-toggler" class="visible-sm visible-xs" aria-label="Helix Megamenu Options" href="https://coronavirus.saude.mg.gov.br/blog/229-vacinacao-coronavac-astrazeneca-oxford#"><i class="fa fa-bars" aria-hidden="true" title="Helix Megamenu Options"></i></a>
+				<ul class="sp-megamenu-parent menu-fade hidden-sm hidden-xs"><li class="sp-menu-item sp-has-child"><a href="javascript:void(0);">Cidadão</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a href="http://www.ouvidoriageral.mg.gov.br/coronavirus" rel="noopener noreferrer" target="_blank">Denúncias</a></li><li class="sp-menu-item"><a href="https://www.mg.gov.br/conteudo/geral/covid-19-doe-aqui" rel="noopener noreferrer" target="_blank">Faça sua Doação</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/cidadao-s/glossario">Glossário</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/cidadao-s/material-da-campanha">Material da Campanha</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/medicamentoemcasa">Medicamento em casa</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/cidadao-s/notasecomunicados">Notas e Comunicados</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/perguntaserespostas">Perguntas e Respostas</a></li><li class="sp-menu-item"><a href="http://rededevoluntariado.saude.mg.gov.br/" rel="noopener noreferrer" target="_blank">Rede de Voluntariado</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/saudedigitalmg">Saúde Digital MG</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a href="https://coronavirus.saude.mg.gov.br/legislacao">Legislação</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/legislacao/decretos">Decretos</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/legislacao/deliberacoes">Deliberações</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/legislacao/leis">Leis</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/legislacao/medidas-provisorias">Medidas Provisórias</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/legislacao/outros">Outros</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/legislacao/portarias">Portarias</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/legislacao/resolucoes">Resoluções</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a href="javascript:void(0);">Transparência</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/boletim">Boletim Epidemiológico</a></li><li class="sp-menu-item"><a href="http://dados.mg.gov.br/dataset/compras-emergenciais-covid-19" rel="noopener noreferrer" target="_blank">Contratações celebradas</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/dadosabertos">Dados Abertos</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/transparencia/distribuicao-de-epi">Distribuição de EPI</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/transparencia/distribuicao-de-medicamentos-para-intubacao">Distribuição de Medicamentos para Intubação</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/transparencia/monitoramento-covid-esgotos">Monitoramento COVID Esgotos</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/painel">Painel de Monitoramento de Casos</a></li><li class="sp-menu-item"><a href="http://www.transparencia.mg.gov.br/covid-19" rel="noopener noreferrer" target="_blank">Portal da Transparência Covid-19</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/vacinometro">Vacinômetro</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/contatos">Painel de Monitoramento de Contatos</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a href="https://coronavirus.saude.mg.gov.br/gestor">Profissionais e Gestores</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-center" style="width: 600px;left: -300px;"><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-6"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title" href="javascript:void(0);"></a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="https://www.mg.gov.br/conteudo/geral/covid-19-doe-aqui" rel="noopener noreferrer" target="_blank">Faça sua Doação</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/gestor/profissionais1/documentos-ministerio-da-saude-e-anvisa">Documentos Ministério da Saúde e ANVISA</a></li><li class="sp-menu-item"><a href="https://notifica.saude.gov.br/login" rel="noopener noreferrer" target="_blank">Ficha de Notificação para casos suspeitos de covid-19</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/gestor/profissionais1/fluxos">Fluxos</a></li><li class="sp-menu-item"><a href="https://www.mg.gov.br/minasconsciente" rel="noopener noreferrer" target="_blank">Minas Consciente</a></li></ul></li></ul></div><div class="col-sm-6"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title" href="javascript:void(0);"></a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/gestor/profissionais2/notas-informativas-alertas-e-outros-documentos">Notas Informativas, relatórios, alertas e outros documentos</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/gestor/profissionais2/notas-tecnicas"> Notas Técnicas</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/gestor/profissionais2/plano-de-contingencia">Plano de Contingência</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/gestor/profissionais2/protocolos">Protocolos</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/gestor/profissionais2/saude-digital-mg-covid-19-atualizacao">Saúde Digital MG - Covid 19 | Atualização</a></li></ul></li></ul></div></div></div></div></li><li class="sp-menu-item sp-has-child"><a href="javascript:void(0);">Notícias</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item active"><a href="https://coronavirus.saude.mg.gov.br/blog">Blog</a></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/sobrevivemosmg">Sobrevivemos MG</a></li></ul></div></div></li><li class="sp-menu-item"><a href="https://coronavirus.saude.mg.gov.br/pesquisa"><i class="fa fa-search"></i> Pesquisa</a></li></ul>			</div>
+		</div></div></div></div></header><section id="sp-banner-blog"><div class="container"><div class="row"><div id="sp-position3" class="col-sm-12 col-md-12"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div id="wk-9bc">
+    <div class="uk-panel uk-panel uk-padding-remove uk-overflow-hidden">
+
+                <div class="uk-grid uk-grid-collapse " data-uk-grid-margin="">
+            <div class="uk-width-1-1 uk-text-center uk-row-first">
+                
+<div class="uk-position-relative" data-uk-slideshow="{}">
+
+    <ul class="uk-slideshow" style="height: 175px;">
+        
+            <li style="min-height: 160px; height: 175px;" data-slideshow-slide="img" aria-hidden="false" class="uk-active"><div class="uk-cover-background uk-position-cover" style="background-image: url(&quot;/images/1_2021/04-05_blog-corona1.png&quot;);"></div>
+                <img src="./vacina_files/04-05_blog-corona1.png" alt="Banner Blog" style="width: 100%; height: auto; opacity: 0;">            </li>
+
+            </ul>
+
+    
+    
+</div>
+            </div>
+            <div class="uk-width-1-1 uk-grid-margin uk-row-first">
+        
+        <div class="uk-panel-body uk-text-left" data-uk-slideshow="{}">
+            <ul class="uk-slideshow" style="height: 0px;">
+                
+                <li data-slideshow-slide="html" aria-hidden="false" class="uk-active" style="height: 0px;">
+
+                    
+                    
+                    
+                </li>
+
+                        </ul>
+
+            
+        </div>
+
+                    </div>
+        </div>
+        
+    </div>
+</div>
+
+<script>
+
+    (function($){
+
+        var settings   = {"panel":"blank","nav":"none","nav_overlay":true,"nav_align":"center","thumbnail_width":"70","thumbnail_height":"70","thumbnail_alt":false,"slidenav":"none","nav_contrast":true,"animation":"fade","slices":"15","duration":"500","autoplay":false,"interval":"7000","autoplay_pause":true,"kenburns":false,"kenburns_animation":"","kenburns_duration":"15","fullscreen":false,"min_height":"160","media":true,"image_width":"auto","image_height":"auto","media_align":"top","media_width":"1-2","media_breakpoint":"medium","content_align":true,"title":false,"content":false,"title_size":"h3","content_size":"","text_align":"left","link":true,"link_style":"button","link_text":"Read more","badge":true,"badge_style":"badge","link_target":false,"class":"","id":"9bc"},
+            container  = $('#wk-9bc'),
+            slideshows = container.find('[data-uk-slideshow]');
+
+        if (slideshows.length > 1) {
+            container.on('beforeshow.uk.slideshow', function(e, next) {
+                slideshows.not(next.closest('[data-uk-slideshow]')[0]).data('slideshow').show(next.index());
+            });
+        }
+
+        if (settings.autoplay && settings.autoplay_pause) {
+
+            container.on({
+                mouseenter: function() {
+                    slideshows.each(function(){
+                        $(this).data('slideshow').stop();
+                    });
+                },
+                mouseleave: function() {
+                    slideshows.each(function(){
+                        $(this).data('slideshow').start();
+                    });
+                }
+            });
+        }
+
+    })(jQuery);
+
+</script>
+</div></div></div></div></div></div></section><section id="sp-slide-pagina-inicial" class=" hidden-xs"><div class="row"><div id="sp-title" class="col-sm-12 col-md-12"><div class="sp-column "></div></div></div></section><section id="sp-main-body"><div class="container"><div class="row"><div id="sp-component" class="col-sm-9 col-md-9"><div class="sp-column "><div id="system-message-container">
+	</div>
+<article class="item item-page" itemscope="" itemtype="http://schema.org/Article">
+	<meta itemprop="inLanguage" content="pt-BR">
+	
+	
+		<div class="pull-left entry-image full-image">
+		<img src="./vacina_files/Captura de Tela 2021-06-05 às 22.43.23.png" alt="" itemprop="image">
+	</div>
+
+	<div class="entry-header">
+		
+						<dl class="article-info">
+
+		
+			<dt class="article-info-term"></dt>	
+				
+			
+			
+							<dd class="category-name">
+	<i class="fa fa-folder-open-o"></i>
+				<a href="https://coronavirus.saude.mg.gov.br/blog" itemprop="genre" data-toggle="tooltip" title="" data-original-title="Categoria do Artigo">Blog</a>	</dd>			
+			
+			
+		
+					
+			
+					
+		
+
+	</dl>
+		
+					<h2 itemprop="name">
+									VACINAÇÃO COVID-19: CORONAVAC E ASTRAZENECA/OXFORD							</h2>
+												</div>
+
+					
+	
+	
+				
+	
+			<div itemprop="articleBody">
+		<p style="text-align: right;"><em><strong>Autor*:</strong>&nbsp;Vitor Yukio Ninomiya</em></p>
+<p style="text-align: justify;">Com o início da vacinação contra o novo coronavírus (SARS-CoV-2) no <strong>Brasil</strong>, muito provavelmente você já deve ter procurado por informações sobre os dois imunizantes com uso autorizado pela ANVISA (<em>Agência Nacional de Vigilância Sanitária</em>): a&nbsp;<strong>CoronaVac</strong>&nbsp;e a<strong>&nbsp;AstraZeneca/Oxford</strong>. Sendo assim, separamos aqui as principais informações para que você fique bem informado sobre esse assunto!</p>
+ 
+<h2 class="alert alert-danger" style="text-align: center;">As vacinas são realmente eficazes e seguras?</h2>
+<p style="text-align: justify;">Em meio à pandemia do novo coronavírus, é de se esperar que haja uma grande ansiedade pelo desenvolvimento de uma vacina. Sendo assim, é comum haver aquela falsa sensação de que esse imunizante esteja demorando a ser produzido, não é mesmo? Mas a espera não é por acaso, pois a autorização da vacina deve, antes de ser aplicada, estar de acordo com pré-requisitos que garantam a segurança e eficácia, estabelecidos pela <strong>ANVISA (Agência Nacional de Vigilância Sanitária)</strong>.</p>
+<p style="text-align: justify;">No atual cenário, a busca por um objetivo comum e o compartilhamento científico mundial permitiram, então, o rápido desenvolvimento de uma vacina (menos de um ano). A união entre uma tecnologia avançada, a flexibilização de algumas das etapas e os mais de 280 mil artigos publicados sobre a covid-19 foram responsáveis por esse marco na história. A primeira vacina testável para a covid-19 já estava disponível para teste sendo em apenas 42 dias após o início das pesquisas!</p>
+<p style="text-align: justify;">Apesar da possibilidade de produzir a vacina a partir de vários métodos distintos, todas elas apresentam um objetivo em comum: capacitar o sistema imunológico ao reconhecimento de um micro-organismo e &nbsp;então evitar a infecção das células do nosso organismo. Mas independentemente da tecnologia utilizada, todas devem apresentar eficácia e segurança favoráveis para que sejam aplicadas na população em geral. E, falando nisso, você sabe o que significam os termos “<strong>eficácia</strong>” e “<strong>segurança</strong>” &nbsp;quando nos referimos às vacinas?</p>
+<p>&nbsp;</p>
+<p class="alert-warning" style="text-align: center;"><b>O que é "EFICÁCIA" de uma vacina?</b></p>
+<p style="text-align: justify;">A <strong>eficácia</strong> da vacina é traduzida como a capacidade do imunizante em conferir proteção imunológica a um determinado agente, no caso, o vírus SARS-CoV-2. O termo é utilizado quando falamos da fase 3 dos ensaios clínicos, ou seja, para fazer referência ao percentual de pessoas vacinadas, nas condições controladas do estudo, que adquiriram imunidade ao vírus.</p>
+<div class="wf-columns wf-columns-stack-medium alert-success" data-wf-columns="1">
+<div class="wf-column">
+<p style="text-align: center;"><strong>Atenção</strong>: a eficácia diz respeito apenas ao estudo entre os voluntários da pesquisa.&nbsp;O número que indica o impacto real da vacina na população é a <strong>efetividade</strong>.</p>
+</div>
+</div>
+<p>&nbsp;</p>
+<p class="alert-warning" style="text-align: center;"><b>O que é "SEGURANÇA" de uma vacina?</b></p>
+<p style="text-align: justify;">Quando falamos na <strong>segurança</strong> de uma vacina, o objetivo é garantir que a vacina não traga riscos à saúde. Por isso, a segurança da vacina é avaliada durante toda a fase clínica do estudo, principalmente em sua primeira fase, cujo número de participantes é reduzido.</p>
+<p>&nbsp;</p>
+<h2 class="alert alert-danger" style="text-align: center;">Vacina Coronavac (Sinovac Biotech)</h2>
+<p style="text-align: justify;">A vacina <strong>CoronaVac</strong>, desenvolvida pela empresa biofarmacêutica chinesa <strong>Sinovac</strong> <strong>Biotech</strong> e produzida no Brasil pelo <strong>Instituto</strong> <strong>Butantan</strong>, em São Paulo, tem como expectativa a produção de cerca de 1 milhão de doses por dia. Essa vacina foi testada em mais de 12 mil voluntários entre 18 e 59 anos, não apresentou efeitos colaterais graves em nenhum deles e apenas 35% dos voluntários apresentaram algum tipo de reação adversa, porém todas elas classificadas como em grau leve, como dor local e febre baixa.</p>
+<div class="wf-columns wf-columns-stack-medium alert-success" data-wf-columns="1">
+<div class="wf-column">
+<p style="text-align: center;"><strong>Você sabia?</strong></p>
+<p style="text-align: center;">O Instituto Butantan é uma instituição pública responsável por produzir outras vacinas já presentes no nosso Programa Nacional de Imunizações (PNI) do Ministério da Saúde. Além da atual CoronaVac, em parceria com a SinoVac Biotech, ela também produz a vacina anual contra gripe, hepatite A, hepatite B, HPV, tríplice bacteriana e a vacina antirrábica.</p>
+</div>
+</div>
+<p>&nbsp;</p>
+<p class="alert-warning" style="text-align: center;"><b>Como essa vacina atua no organismo?</b></p>
+<p style="text-align: justify;">A <strong>CoronaVac</strong> foi criada por meio de uma tecnologia molecular já muito utilizada em outros imunizantes. Assim como nas vacinas da gripe, poliomielite, hepatite e da meningite, ela é composta por <strong>vírus inativado</strong>, ou popularmente como “<strong>vírus morto</strong>”. As partes do novo coronavírus presentes na vacina são apenas aquelas que permitem o reconhecimento do vírus pelo nosso sistema imune e não pela sua parte responsável por causar a doença. Sendo assim, a produção do imunizante consiste em inativar o coronavírus, de maneira que fique incapaz de se multiplicar e transmitir a doença, pois torna-se incapaz de infectar as células humanas.&nbsp;</p>
+<p style="text-align: justify;">Assim que a vacina for aplicada, células de defesa do nosso organismo encontram e respondem a essas partes do coronavírus, dando início à produção de <strong>anticorpos</strong>. No entanto, esse processo demanda um certo <strong>tempo</strong> até que o organismo fique protegido contra o coronavírus. Além disso, outro aspecto fundamental é a necessidade da <strong>dose de reforço</strong>, que ajusta a quantidade de anticorpos àquela necessária para uma resposta eficiente contra uma possível infecção contra o coronavírus. Por isso, o esquema de vacinação é composto por <b>duas doses , do mesmo laboratório, com intervalo entre 2 a 4 semanas entre as aplicações</b>.</p>
+<p>A vacinação está indicada somente às pessoas a <b>partir de 18 anos</b> e, após a aplicação de cada uma das doses da vacina deve-se <b>evitar a doação de sangue por 2 dias (48 horas)</b>.&nbsp;</p>
+<p class="btn-danger" style="text-align: center;"><b>ATENÇÃO</b>: mesmo com o esquema vacinal completo (2 doses) contra o coronavirus, deve-se manter os cuidados referentes à prevenção da doença.</p>
+<div>&nbsp;</div>
+<p class="alert-warning" style="text-align: center;"><b>Outros dados sobre essa vacina</b></p>
+<p style="text-align: justify;">A <strong>eficácia geral</strong> apresentada pelo Instituto Butantan para a CoronaVac nos testes brasileiros foi de <strong>50,38%</strong>, o que pode parecer baixo em primeiro momento, mas que traz ótimos resultados quando detalhados: a vacina mostrou-se <strong>100% eficaz nos casos moderados e graves e 78% eficaz nos casos leves da covid-19</strong>. Ou seja, a aplicação da vacina, quando feita adequadamente em duas doses, tem grande potencial de redução do número de internações pela doença.&nbsp;</p>
+<p>&nbsp;</p>
+<p class="alert-warning btn-default active" style="text-align: center;"><strong>Importante:</strong>&nbsp;os estudos demonstraram 100% de eficácia na redução dos casos moderados e graves da covid-19 <strong>apenas na população do estudo</strong>, mas não garante, necessariamente, uma eficácia de 100% em toda a população que receber a vacina. Por isso, quando uma pesquisa busca por voluntários ela objetiva simular uma amostra da população que represente sua totalidade. Apesar de não existir a garantia de uma efetividade de 100% da vacina, a eficácia de 100% nos estudos feitos em uma amostra populacional, quanto mais próxima da realidade (número, idade, fatores genéticos e ambientais), maior a tendência em aproximar os resultados dos ensaios clínicos da população como um todo.</p>
+<p style="text-align: justify;">&nbsp;</p>
+<h2 class="alert alert-danger" style="text-align: center;">Vacina AstraZeneca/Oxford</h2>
+<p style="text-align: justify;">Essa vacina&nbsp;foi desenvolvida pelo grupo farmacêutico britânico <strong>AstraZeneca</strong>, em parceria com a <strong>Universidade de Oxford</strong>. Apesar da autorização e transferência da tecnologia à <strong>Fundação Oswaldo Cruz (Fiocruz)</strong>, no Rio de Janeiro, os imunizantes a serem utilizados no Brasil, em breve, prevê uma possível importação de duas milhões de doses trazidas da Índia.</p>
+<div>&nbsp;</div>
+<p class="alert-warning" style="text-align: center;"><b>Como essa vacina atua no organismo?</b></p>
+<p style="text-align: justify;">A vacina britânica <strong>Oxford-Astrazeneca</strong> utiliza uma tecnologia biomolecular baseada no chamado <strong>“vetor viral”</strong>, que consiste na utilização de um vírus modificado para estimular o sistema imunológico na produção de anticorpos contra o novo coronavírus. Na&nbsp; fabricação da vacina, uma espécie de vírus enfraquecido (adenovírus <strong>ChAdOx1</strong>), conhecido por causar gripe comum em chimpanzés, após ser modificado para não se multiplicar, carrega parte do material genético do SARS-CoV-2 responsável pela produção de uma proteína (“<strong>Spike</strong>”) que auxilia o vírus da COVID-19 a invadir as células humanas. Assim, após a vacinação, o adenovírus começa a produzir essa proteína Spike, ensinando o sistema imunológico humano que toda partícula com essa proteína deve ser destruída.&nbsp;Assim, após a imunização adequada (<strong>2 doses do mesmo fabricante e com intervalo de 12 semanas entre as aplicações</strong>) o sistema imune do nosso organismo torna-se capaz de reconhecer e atacar rapidamente o coronavírus, caso seja infectado.&nbsp;</p>
+<p style="text-align: justify;">A vacinação está indicada somente às pessoas a partir de 18 anos e, após a aplicação de cada uma das doses da vacina deve-se <b>evitar a doação de sangue por 7 dias</b>.&nbsp;</p>
+<p style="text-align: center;"><b class="btn-danger">ATENÇÃO</b><span class="btn-danger">: mesmo com o esquema vacinal completo (2 doses) contra o coronavirus, deve-se manter os cuidados referentes à prevenção da doença.</span><br><br></p>
+<p class="alert-warning" style="text-align: center;"><b>Outros dados sobre a vacina&nbsp;</b></p>
+<p style="text-align: justify;">A <strong>eficácia</strong> <strong>geral</strong> apresentada pela AstraZeneca para a vacina&nbsp;nos testes foi de cerca de <strong>70%</strong> (entre 62% e 90%), após a aplicação das duas doses. Sendo assim, apresentou resultado satisfatório (acima dos 50% exigidos pela ANVISA) e também tem grande potencial de redução do número de internações pela doença, o que promete reduzir consideravelmente a taxa de ocupação do Sistema Único de Saúde.</p>
+<p>&nbsp;</p>
+<h2 class="alert alert-danger" style="text-align: center;">Afinal, vale a pena se vacinar?</h2>
+<p style="text-align: justify;">Atualmente, <strong>nenhuma vacina apresentou 100% de eficácia</strong>, não somente contra a covid-19 mas contra qualquer outra doença até hoje. Apesar da eficácia alta ocorrer somente quando o imunizante supera os 90% nos ensaios clínicos, uma eficácia superior a 50% (percentual de corte para a ANVISA) já é suficiente para o controle da atual pandemia. Além disso, sempre com a garantia da segurança de sua aplicação, então fique tranquilo pois todas as vacinas aprovadas são seguras!</p>
+<p style="text-align: justify;">Portanto, muito mais importante do que saber a eficácia de cada uma das vacinas contra a covid-19 é buscar a conscientização sobre a importância em estar vacinado. Quanto maior o número de pessoas vacinadas, melhores serão os resultados no combate à pandemia. E, tal como indicam os diversos estudos sobre a <strong>eficácia</strong> e a <strong>eficiência</strong> da vacina, nem todos aqueles que recebem a vacina acabam se tornando imunes à doença, mas quanto maior o número de pessoas imunizadas mais a população fica protegida. Portanto, tomar ou não uma vacina não é uma decisão que afeta exclusivamente a pessoa com esta decisão, ela interfere também na saúde de todos aqueles com quem convive. Por isso, a vacinação não é simplesmente uma questão de opinião, mas de conscientização social e saúde pública.&nbsp;</p>
+<div>&nbsp;</div>
+<p>Quer entender melhor os termos e conceitos sobre o novo coronavírus e a pandemia de covid-19? Acesse o nosso&nbsp;<a href="https://www.saude.mg.gov.br/images/documentos/DICIONARIO_baixaresolu%C3%A7%C3%A3oatualizado.pdf">Dicionário "Para Entender a Pandemia"</a>!</p>	</div>
+
+	
+						<div class="tags">
+	    <span>Tags: </span>
+																	<a href="https://coronavirus.saude.mg.gov.br/component/tags/tag/coronavirus" class="" rel="tag">coronavírus</a>,																				<a href="https://coronavirus.saude.mg.gov.br/component/tags/tag/covid-19" class="" rel="tag">covid-19</a>,																				<a href="https://coronavirus.saude.mg.gov.br/component/tags/tag/vacina-contra-coronavirus" class="" rel="tag">vacina contra coronavírus</a>,																				<a href="https://coronavirus.saude.mg.gov.br/component/tags/tag/sars-cov-2" class="" rel="tag">sars-cov-2</a>,																				<a href="https://coronavirus.saude.mg.gov.br/component/tags/tag/vacina" class="" rel="tag">vacina</a>,																				<a href="https://coronavirus.saude.mg.gov.br/component/tags/tag/coronavac" class="" rel="tag">coronavac</a>,																				<a href="https://coronavirus.saude.mg.gov.br/component/tags/tag/sinovac" class="" rel="tag">sinovac</a>,																				<a href="https://coronavirus.saude.mg.gov.br/component/tags/tag/astrazeneca" class="" rel="tag">astrazeneca</a>,																				<a href="https://coronavirus.saude.mg.gov.br/component/tags/tag/oxford" class="" rel="tag">oxford</a>,																				<a href="https://coronavirus.saude.mg.gov.br/component/tags/tag/imunizacao" class="" rel="tag">imunização</a>						</div>
+	
+				
+	
+	
+			<div class="article-footer-wrap">
+			<div class="article-footer-top">
+									<div class="helix-social-share">
+		<div class="helix-social-share-icon">
+			<ul>
+				
+				<li>
+					<div class="facebook" data-toggle="tooltip" data-placement="top" title="" data-original-title="Share On Facebook">
+
+						<a class="facebook" onclick="window.open(&#39;http://www.facebook.com/sharer.php?u=https://coronavirus.saude.mg.gov.br/blog/229-vacinacao-coronavac-astrazeneca-oxford&#39;,&#39;Facebook&#39;,&#39;width=600,height=300,left=&#39;+(screen.availWidth/2-300)+&#39;,top=&#39;+(screen.availHeight/2-150)+&#39;&#39;); return false;" href="http://www.facebook.com/sharer.php?u=https://coronavirus.saude.mg.gov.br/blog/229-vacinacao-coronavac-astrazeneca-oxford">
+
+							<i class="fa fa-facebook"></i>
+						</a>
+
+					</div>
+				</li>
+				<li>
+					<div class="twitter" data-toggle="tooltip" data-placement="top" title="" data-original-title="Share On Twitter">
+						
+						<a class="twitter" onclick="window.open(&#39;http://twitter.com/share?url=https://coronavirus.saude.mg.gov.br/blog/229-vacinacao-coronavac-astrazeneca-oxford&amp;text=VACINAÇÃO%20COVID-19:%20CORONAVAC%20E%20ASTRAZENECA/OXFORD&#39;,&#39;Twitter share&#39;,&#39;width=600,height=300,left=&#39;+(screen.availWidth/2-300)+&#39;,top=&#39;+(screen.availHeight/2-150)+&#39;&#39;); return false;" href="http://twitter.com/share?url=https://coronavirus.saude.mg.gov.br/blog/229-vacinacao-coronavac-astrazeneca-oxford&amp;text=VACINA%C3%87%C3%83O%20COVID-19:%20CORONAVAC%20E%20ASTRAZENECA/OXFORD">
+							<i class="fa fa-twitter"></i>
+						</a>
+
+					</div>
+				</li>
+				<li>
+					<div class="google-plus">
+						<a class="gplus" data-toggle="tooltip" data-placement="top" title="" onclick="window.open(&#39;https://plus.google.com/share?url=https://coronavirus.saude.mg.gov.br/blog/229-vacinacao-coronavac-astrazeneca-oxford&#39;,&#39;Google plus&#39;,&#39;width=585,height=666,left=&#39;+(screen.availWidth/2-292)+&#39;,top=&#39;+(screen.availHeight/2-333)+&#39;&#39;); return false;" href="https://plus.google.com/share?url=https://coronavirus.saude.mg.gov.br/blog/229-vacinacao-coronavac-astrazeneca-oxford" data-original-title="Share On Google Plus">
+						<i class="fa fa-google-plus"></i></a>
+					</div>
+				</li>
+				
+				<li>
+					<div class="linkedin">
+						<a class="linkedin" data-toggle="tooltip" data-placement="top" title="" onclick="window.open(&#39;http://www.linkedin.com/shareArticle?mini=true&amp;url=https://coronavirus.saude.mg.gov.br/blog/229-vacinacao-coronavac-astrazeneca-oxford&#39;,&#39;Linkedin&#39;,&#39;width=585,height=666,left=&#39;+(screen.availWidth/2-292)+&#39;,top=&#39;+(screen.availHeight/2-333)+&#39;&#39;); return false;" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://coronavirus.saude.mg.gov.br/blog/229-vacinacao-coronavac-astrazeneca-oxford" data-original-title="Share On Linkedin">
+							
+						<i class="fa fa-linkedin-square"></i></a>
+					</div>
+				</li>
+			</ul>
+		</div>		
+	</div> <!-- /.helix-social-share -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+					</div>
+	
+</article>
+</div></div><div id="sp-right" class="col-sm-3 col-md-3 hidden-xs"><div class="sp-column class2"><div class="sp-module "><h3 class="sp-module-title">Artigos Mais Lidos</h3><div class="sp-module-content"><ul class="mostread mod-list">
+	<li itemscope="" itemtype="https://schema.org/Article">
+		<a href="https://coronavirus.saude.mg.gov.br/blog/263-novos-habitos-carnaval-2021" itemprop="url">
+			<span itemprop="name">
+				NOVOS HÁBITOS: CARNAVAL 2021			</span>
+		</a>
+	</li>
+	<li itemscope="" itemtype="https://schema.org/Article">
+		<a href="https://coronavirus.saude.mg.gov.br/blog/26-6-mitos-e-verdades-sobre-o-coronavirus" itemprop="url">
+			<span itemprop="name">
+				6 mitos e verdades sobre o coronavírus			</span>
+		</a>
+	</li>
+	<li itemscope="" itemtype="https://schema.org/Article">
+		<a href="https://coronavirus.saude.mg.gov.br/blog/27-como-surgiu-o-coronavirus" itemprop="url">
+			<span itemprop="name">
+				Você sabe como surgiu o coronavírus SARS-CoV-2?			</span>
+		</a>
+	</li>
+	<li itemscope="" itemtype="https://schema.org/Article">
+		<a href="https://coronavirus.saude.mg.gov.br/blog/31-conheca-o-rt-pcr-em-tempo-real-metodo-utilizado-para-o-diagnostico-de-covid-19" itemprop="url">
+			<span itemprop="name">
+				Conheça o RT-PCR em tempo real, método utilizado para o diagnóstico de Covid-19			</span>
+		</a>
+	</li>
+	<li itemscope="" itemtype="https://schema.org/Article">
+		<a href="https://coronavirus.saude.mg.gov.br/blog/35-o-que-e-coronavirus" itemprop="url">
+			<span itemprop="name">
+				Afinal, você sabe o que é coronavírus?			</span>
+		</a>
+	</li>
+</ul>
+</div></div></div></div></div></div></section><section id="sp-bottom"><div class="container"><div class="row"><div id="sp-bottom1" class="col-sm-6 col-md-3"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom">
+	<p><a href="https://vacinaminas.mg.gov.br/" target="_blank" rel="noopener"><img src="./vacina_files/26-04_selo1.jpg" alt="" width="625" height="257"></a></p></div>
+</div></div><div class="sp-module "><h3 class="sp-module-title">Acesso Rápido</h3><div class="sp-module-content"><ul class="nav menu">
+<li class="item-253">		<a href="https://www.saude.mg.gov.br/"> Portal da SES-MG</a></li><li class="item-211">		<a href="https://coronavirus.saude.mg.gov.br/noticias"> Banco de Notícias</a></li><li class="item-155">		<a href="https://coronavirus.saude.mg.gov.br/boletim"> Boletim</a></li><li class="item-156">		<a href="https://coronavirus.saude.mg.gov.br/painel"> Painel de Monitoramento</a></li><li class="item-157"><a href="https://coronavirus.saude.mg.gov.br/cidadao-acesso-rapido"> Cidadão</a></li><li class="item-158">		<a href="https://coronavirus.saude.mg.gov.br/perguntaserespostas"> Perguntas e Respostas</a></li><li class="item-159">		<a href="https://coronavirus.saude.mg.gov.br/cidadao-s/notasecomunicados"> Notas e Comunicados</a></li><li class="item-160">		<a href="https://coronavirus.saude.mg.gov.br/gestor"> Profissionais e Gestores</a></li><li class="item-161">		<a href="https://coronavirus.saude.mg.gov.br/saudedigitalmg"> Saúde Digital MG</a></li><li class="item-243">		<a href="https://coronavirus.saude.mg.gov.br/sobrevivemosmg"> Sobrevivemos MG</a></li><li class="item-260">		<a href="https://coronavirus.saude.mg.gov.br/contatos"> Painel de Monitoramento de Contatos</a></li><li class="item-262"><a href="https://coronavirus.saude.mg.gov.br/mapa-do-site"> Mapa do Site</a></li></ul>
+</div></div></div></div><div id="sp-bottom2" class="col-sm-6 col-md-3"><div class="sp-column "><div class="sp-module "><h3 class="sp-module-title">Profissionais de Saúde e Gestores </h3><div class="sp-module-content"><ul class="nav menu">
+<li class="item-133"><a href="https://coronavirus.saude.mg.gov.br/documentos-ministerio-da-saude-e-anvisa"> Documentos Ministério da Saúde e ANVISA</a></li><li class="item-143">		<a href="https://notifica.saude.gov.br/login" rel="noopener noreferrer" target="_blank"> Ficha de Notificação para casos suspeitos de Covid-19</a></li><li class="item-134"><a href="https://coronavirus.saude.mg.gov.br/fluxos"> Fluxos</a></li><li class="item-166">		<a href="https://www.mg.gov.br/minasconsciente" rel="noopener noreferrer" target="_blank"> Minas Consciente</a></li><li class="item-135"><a href="https://coronavirus.saude.mg.gov.br/notas-informativas-alertas-e-outros-documentos"> Notas informativas, alertas e outros</a></li><li class="item-136"><a href="https://coronavirus.saude.mg.gov.br/notas-tecnicas"> Notas Técnicas</a></li><li class="item-137"><a href="https://coronavirus.saude.mg.gov.br/plano-de-contingencia"> Plano de Contingência</a></li><li class="item-138"><a href="https://coronavirus.saude.mg.gov.br/protocolos"> Protocolos</a></li><li class="item-165">		<a href="http://rededevoluntariado.saude.mg.gov.br/" rel="noopener noreferrer" target="_blank"> Rede de Voluntariado</a></li></ul>
+</div></div></div></div><div id="sp-bottom3" class="col-sm-6 col-md-3 hidden-xs"><div class="sp-column "><div class="sp-module "><h3 class="sp-module-title">Legislação</h3><div class="sp-module-content"><ul class="nav menu">
+<li class="item-148"><a href="https://coronavirus.saude.mg.gov.br/decretos"> Decretos</a></li><li class="item-149"><a href="https://coronavirus.saude.mg.gov.br/deliberacoes"> Deliberações</a></li><li class="item-150"><a href="https://coronavirus.saude.mg.gov.br/leis"> Leis</a></li><li class="item-151"><a href="https://coronavirus.saude.mg.gov.br/medidas-provisorias"> Medidas Provisórias</a></li><li class="item-152"><a href="https://coronavirus.saude.mg.gov.br/outros"> Outros</a></li><li class="item-153"><a href="https://coronavirus.saude.mg.gov.br/portarias"> Portarias</a></li><li class="item-154"><a href="https://coronavirus.saude.mg.gov.br/resolucoes"> Resoluções</a></li></ul>
+</div></div></div></div><div id="sp-bottom4" class="col-sm-6 col-md-3 hidden-xs"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+
+<div id="wk-grid621" class="uk-grid-width-1-1 uk-grid uk-grid-match uk-grid-small " data-uk-grid-match="{target:&#39;&gt; div &gt; .uk-panel&#39;, row:true}" data-uk-grid-margin="" data-uk-scrollspy="{cls:&#39;uk-animation-fade uk-invisible&#39;, target:&#39;&gt; div &gt; .uk-panel&#39;, delay:300}">
+
+    
+    <div class="uk-row-first">
+    
+<div class="uk-panel uk-invisible">
+
+    <div class="uk-panel-teaser">
+
+        <figure class="uk-overlay uk-overlay-hover ">
+
+            <img src="./vacina_files/23-02-sobrevivemos.png" class="uk-overlay-scale" alt="Banner Sobrevivemos" width="400" height="176" style="">
+            
+                        <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade"></div>
+            
+            
+                                                <a class="uk-position-cover" href="https://coronavirus.saude.mg.gov.br/sobrevivemosmg"></a>
+                            
+        </figure>
+
+    </div>
+
+    
+        
+        
+    
+</div>
+    </div>
+
+        
+    <div class="uk-grid-margin uk-row-first">
+    
+<div class="uk-panel uk-invisible">
+
+    <div class="uk-panel-teaser">
+
+        <figure class="uk-overlay uk-overlay-hover ">
+
+            <img src="./vacina_files/22-06_material.jpg" class="uk-overlay-scale" alt="Material" width="400" height="176" style="">
+            
+                        <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade"></div>
+            
+            
+                                                <a class="uk-position-cover" href="https://coronavirus.saude.mg.gov.br/cidadao-s/material-da-campanha"></a>
+                            
+        </figure>
+
+    </div>
+
+    
+        
+        
+    
+</div>
+    </div>
+
+        
+    <div class="uk-grid-margin uk-row-first">
+    
+<div class="uk-panel uk-invisible">
+
+    <div class="uk-panel-teaser">
+
+        <figure class="uk-overlay uk-overlay-hover ">
+
+            <img src="./vacina_files/23-02-logo-governo.png" class="uk-overlay-scale" alt="Logo Governo" width="418" height="132" style="">
+            
+                        <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade"></div>
+            
+            
+                                                <a class="uk-position-cover" href="https://www.mg.gov.br/"></a>
+                            
+        </figure>
+
+    </div>
+
+    
+        
+        
+    
+</div>
+    </div>
+
+    
+</div>
+
+
+<script>
+(function($){
+
+    // get the images of the gallery and replace it by a canvas of the same size to fix the problem with overlapping images on load.
+    $('img[width][height]:not(.uk-overlay-panel)', $('#wk-grid621')).each(function() {
+
+        var $img = $(this);
+
+        if (this.width == 'auto' || this.height == 'auto' || !$img.is(':visible')) {
+            return;
+        }
+
+        var $canvas = $('<canvas class="uk-responsive-width"></canvas>').attr({width:$img.attr('width'), height:$img.attr('height')}),
+            img = new Image,
+            release = function() {
+                $canvas.remove();
+                $img.css('display', '');
+                release = function(){};
+            };
+
+        $img.css('display', 'none').after($canvas);
+
+        $(img).on('load', function(){ release(); });
+        setTimeout(function(){ release(); }, 1000);
+
+        img.src = this.src;
+
+    });
+
+})(jQuery);
+</script>
+</div></div></div></div></div></div></section><footer id="sp-footer"><div class="container"><div class="row"><div id="sp-footer1" class="col-sm-12 col-md-12"><div class="sp-column "><span class="sp-copyright">© 2021 SES - Secretaria de Estado de Saúde de Minas Gerais.
+Desenvolvido pela Assessoria de Comunicação Social.</span></div></div></div></div></footer>            </div> <!-- /.body-innerwrapper -->
+        </div> <!-- /.body-innerwrapper -->
+
+        <!-- Off Canvas Menu -->
+        <div class="offcanvas-overlay"></div><div class="offcanvas-menu">
+            <a href="https://coronavirus.saude.mg.gov.br/blog/229-vacinacao-coronavac-astrazeneca-oxford#" class="close-offcanvas" aria-label="Close"><i class="fa fa-remove" aria-hidden="true" title="HELIX_CLOSE_MENU"></i></a>
+            <div class="offcanvas-inner">
+                                  <div class="sp-module "><div class="sp-module-content"><ul class="nav menu">
+<li class="item-191">		<a href="https://coronavirus.saude.mg.gov.br/home"> Início</a></li><li class="item-254">		<a href="https://coronavirus.saude.mg.gov.br/sobrevivemosmg"> SOBREVIVEMOS MG</a></li><li class="item-173  deeper parent">		<a href="https://coronavirus.saude.mg.gov.br/cidadao"> Cidadão</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-173"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-173"><li class="item-177">		<a href="http://www.ouvidoriageral.mg.gov.br/coronavirus"> Denúncia</a></li><li class="item-192">		<a href="https://coronavirus.saude.mg.gov.br/cidadao-s/material-da-campanha"> Material da Campanha</a></li><li class="item-176">		<a href="https://coronavirus.saude.mg.gov.br/cidadao-s/notasecomunicados"> Notas e Comunicados</a></li><li class="item-174">		<a href="https://coronavirus.saude.mg.gov.br/?Itemid=116"> Perguntas e Respostas</a></li></ul></li><li class="item-180  deeper parent">		<a href="https://coronavirus.saude.mg.gov.br/gestor"> Profissionais e Gestores</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-180"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-180"><li class="item-182">		<a href="https://coronavirus.saude.mg.gov.br/gestor/profissionais1/fluxos"> Fluxos</a></li><li class="item-181">		<a href="https://coronavirus.saude.mg.gov.br/gestor/profissionais2/notas-tecnicas"> Notas técnicas</a></li><li class="item-184">		<a href="https://coronavirus.saude.mg.gov.br/gestor/profissionais2/plano-de-contingencia"> Plano de Contingência</a></li><li class="item-185">		<a href="https://coronavirus.saude.mg.gov.br/gestor/profissionais2/protocolos"> Protocolos</a></li></ul></li><li class="item-187">		<a href="https://coronavirus.saude.mg.gov.br/boletim"> Boletim Epidemiológico</a></li><li class="item-216">		<a href="https://coronavirus.saude.mg.gov.br/?Itemid=215"> Boletim Epidemiológico Edição Especial</a></li><li class="item-178">		<a href="https://www.mg.gov.br/conteudo/geral/covid-19-doe-aqui"> Doação</a></li><li class="item-186">		<a href="https://coronavirus.saude.mg.gov.br/legislacao"> Legislação</a></li><li class="item-201">		<a href="https://coronavirus.saude.mg.gov.br/medicamentoemcasa"> Medicamento em casa</a></li><li class="item-183">		<a href="https://www.mg.gov.br/minasconsciente"> Minas Consciente</a></li><li class="item-210  divider deeper parent"><a class="separator ">Notícias</a>
+<span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-210"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-210"><li class="item-209">		<a href="https://coronavirus.saude.mg.gov.br/noticias"> Banco de Notícias</a></li><li class="item-202  current active">		<a href="https://coronavirus.saude.mg.gov.br/blog"> Blog</a></li></ul></li><li class="item-206"><a href="https://coronavirus.saude.mg.gov.br/painel-de-monitoramento-dos-casos"> Painel de Monitoramento dos Casos</a></li><li class="item-261">		<a href="https://coronavirus.saude.mg.gov.br/contatos"> Painel de Monitoramento de Contatos</a></li><li class="item-257">		<a href="https://coronavirus.saude.mg.gov.br/vacinometro"> Vacinômetro</a></li><li class="item-175">		<a href="https://coronavirus.saude.mg.gov.br/?Itemid=125"> Saúde Digital MG</a></li><li class="item-188">		<a href="http://www.transparencia.mg.gov.br/covid-19"> Transparência</a></li><li class="item-189"><a href="https://coronavirus.saude.mg.gov.br/pesquisar"> <i class="fa fa-search"></i> Pesquisar</a></li><li class="item-285">		<a href="https://coronavirus.saude.mg.gov.br/dadosabertos"> Dados Abertos</a></li></ul>
+</div></div>
+                            </div> <!-- /.offcanvas-inner -->
+        </div> <!-- /.offcanvas-menu -->
+
+        
+        
+        
+        <!-- Preloader -->
+        
+
+        <!-- Go to top -->
+                    <a href="javascript:void(0)" class="scrollup" aria-label="Go To Top" style="display: inline;">&nbsp;</a>
+        
+    
+</body></html>
