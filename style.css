@@ -1,0 +1,391 @@
+body,ul{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background: white;
+	
+}
+
+
+/* Links */
+
+
+a{
+	color: white;
+	text-decoration: none;
+	font-family: sans-serif;
+
+}
+
+a:hover{
+	background: rgba(0, 0, 0, 0.5);
+}
+
+#logo{
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+#header{
+	box-sizing: border-box;
+	height: 70px;
+	padding: 1rem;
+	display: flex;
+	align-items: center;/* Para centralizar os itens de height*/
+	justify-content: space-between;/*distancia um do outro para a direita*/
+	background:#800000;
+}
+
+
+#menu{
+	display: flex;
+	list-style: none;
+	gap: .5rem;/*Aqui muda o distanciamento dos elementos do menu*/
+}
+
+#menu a{
+	display: block;/* Para poder definir o padding dele */
+	padding: .5rem;
+}
+
+/*Ação para esconder o botão de menu */
+#btn-mobile{
+	display: none;
+}
+
+.container{
+	margin: auto;
+	max-width: 1000px;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	grid-gap: 20px;
+	justify-content: center;
+	padding: 10px;
+}
+.polaroid{
+	background: white;
+	padding: 10px 10px 10px;
+}
+
+.polaroid a{
+	color: black;
+}
+.photo{
+	width: 100%;
+	height: 290px;
+	object-fit: cover;
+}
+#section{
+	width: 800px;
+	background: white;
+}
+
+/* Elementos com o ID "titulo" */
+#titulo {
+    font-family: sans-serif;
+    color: white;
+    
+} 
+
+ /*Elementos com o ID "subtitulo" */
+#subtitulo {
+    font-family: sans-serif;
+    color: #800000;
+    margin-left: 1%;
+} 
+
+#check{
+    display: inline-block;
+}
+
+ /*Elementos de tag <fieldset>*/
+fieldset {
+    border: 1px solid black;
+}
+
+
+/* Elementos de tags <body>, <input>, <Select>, <textarea> e <button> */
+input, select, textarea, button {
+    font-family: sans-serif;
+    font-size: 1em;
+    color: #59429d;
+    border-radius: 5px;
+}
+.grupo{
+	color:#800000;
+}
+
+/*Elementos de classe "grupo" nos estados das pseudoclasses "before" e "after" */
+.grupo:before, .grupo:after {
+    display: table;
+}
+
+/* Elementos de classe "grupo" no estado da pseudoclasse "after" */
+.grupo:after {
+    clear: both;
+}
+
+ /*Elementos de classe "campo" */
+.campo {
+    margin-bottom: 1em;
+}
+
+ /*Elementos de classe "campo" de tag <label> */
+.campo label {
+    margin-bottom: 0.2em;
+    color: #800000;
+    display: block;
+}
+
+ /*Elementos de classe "campo" ou "grupo" de tag <fieldset>*/ 
+fieldset.grupo .campo {
+    float:  left;
+    margin-right: 1em;
+}
+
+ /*Elementos de classe "campo" das tags <input> com atributo text e email, da tag <select> e da tag <textarea>*/
+.campo input[type="text"], .campo input[type="email"], .campo select, .campo textarea {
+    padding: 0.2em;
+    border: 1px solid #59429d;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    display: block;
+}
+
+/* Elementos de classe "campo" de tag <select> e <option>*/
+.campo select option {
+    padding-right: 1em;
+}
+
+/* Elemento de classe "campo" com tag <input>, <select> e <textarea> tocas com estado da pseudoclasse "focus"*/
+.campo input:focus, .campo select:focus, .campo textarea:focus {
+    background: #E0E0F8;
+}
+
+ /*Elemento de classe "botao" */
+.botao {
+    font-size: 1.2em;
+    background: #800000;
+    border: 0;
+    margin-bottom: 1em;
+    color: #ffffff;
+    padding: 0.2em 0.6em;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+    position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+ /*Elemento de classe "botao" com o estado da pseudoclasse "hover" */
+.botao:hover {
+    background: #CCBBFF;
+    box-shadow: inset 2px 2px 2px rgba(0,0,0,0.2);
+    text-shadow: none;
+}
+
+/* Elementos de classe botão e de tag <select> 
+.botao, select{
+    cursor: pointer;
+}*/
+
+#formulario{
+	width: auto;
+	height: 250px;
+	background-color:#800000 ;*/
+	border: 0;
+	margin: 15px;
+	padding: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.botao1{
+	margin: 10px;
+	background: #FF6347;
+    border: 0;
+    color: #ffffff;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+    left: 50%;
+}
+
+.botao1:hover {
+    background: #CCBBFF;
+    box-shadow: inset 2px 2px 2px rgba(0,0,0,0.2);
+    text-shadow: none;
+}
+
+#minhaLista{
+	
+	margin: 10px;
+	padding: 10px;
+	
+}
+#form1{
+	color: white;
+
+	}
+
+#lista{
+	
+	 margin: 1px;
+	padding: 1px;	
+}
+footer{
+	width: 100%;
+	height: 20px;
+	padding: 10px;
+	color: white;
+	background: #800000;
+	text-align: center;
+}
+li{
+	list-style: none;
+}
+
+
+main{
+	
+	height: 650px;
+	padding: 20px;
+	border-radius: 10px;
+	min-width: 280px;
+	max-width: 1000px;
+	margin-bottom: 30px;
+	margin: auto;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 1.418);
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+.carrossels{
+	width: 40%;
+	padding: 10px;
+	margin: 0 auto;
+	background:	#E9967A;
+}
+h1{
+	text-align: center;
+	color: white;
+	background: #800000;
+}
+h2{
+	text-align: center;
+}
+p{
+	color:black;
+}
+
+#principal{
+	margin: auto;
+	height: 1200px;
+}
+
+#mundial{
+	margin: auto;
+	height: 600px;
+}
+#titulo{
+	text-align: left;
+}
+
+#jornal{
+	color: black;
+}
+#prev{
+	background:	#E9967A;
+}
+img{
+	display:block;
+	
+}
+
+
+/*Apartir desta medida começa aparecer essas configurações*/
+@media(max-width: 600px){
+	
+	#menu{
+		display:block;		
+		position: absolute;
+		width: 100%;
+		top: 70px;
+		right: 0px;
+		background: #A52A2A;/*cor do menu stilizado*/		
+		transition: .6s;	
+		z-index: 1000;
+		height: 0px;
+		visibility: hidden;	
+		overflow-y: hidden;
+	}
+	#nav.active #menu{
+		height: calc(100vh - 70px);/*ocupa 100% da tela do menu para abaixo*/
+		visibility: visible;
+		overflow-y: auto;
+	}
+	#menu a{
+		padding: 1rem 0;
+		margin: 0 1rem;
+		border-bottom: 2px solid rgba(0, 0, 0, 0.5);
+	}
+
+	#btn-mobile{
+	display: flex;
+	padding:.5rem 1rem ;
+	font-size: 1rem;
+	border: none;
+	background: none;
+	cursor: pointer;
+	gap: .5rem;
+	}
+
+	#hamburger{
+		display: block;
+		border-top: 2px solid;
+		width: 20px;
+	}
+	#hamburger::after, #hamburger::before{
+		content: '';
+		display: block;
+		width: 20px;
+		height: 2px;
+		background: currentColor;
+		margin-top: 5px;
+		transition: .3s ;
+		position: relative;
+	}
+
+	#nav.active #hamburger{
+		border-top-color: transparent;
+
+	}
+
+	#nav.active #hamburger::before{
+		transform: rotate(135deg);
+	}
+
+	#nav.active #hamburger::after{
+		transform: rotate(-135deg);
+		top: -7px;
+	}
+	main{
+		width: 100%;
+	}
+
+
+	footer{
+	width: 100%;
+	padding: 15px;
+	height: 50px;
+	color: white;
+	background: #800000;
+	text-align: center;
+	visibility: hidden;	
+	overflow-y: hidden;
+}
+
+}
+
