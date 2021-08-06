@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=\, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css">
+
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css">
+	<title>Portal de notícias</title>
+</head>
+<body id="contato">
+
+	<header id="header">
+		<a id="logo" href="">Portal de notícias Campos do Jordão Covid-19</a>
+		<nav id="nav">
+			<button aria-label="Abrir Menu" id="btn-mobile" aria-haspopup="true" aria-controls= "menu" aria-expanded="false">Menu
+				<span id="hamburger"></span>				
+			</button>
+			<ul id="menu" role="menu">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="mundial.html">Mundial</a></li>
+				<li><a href="prevencao.html">Prevenção</a></li>
+				<li><a href="mural.html">Mural</a></li>
+				<li><a href="contato.html">Contato</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main id="prev">
+		<h1 id="carrossel1">Prevenção sobre covid-19</h1>
+		
+			<div class="carrossels">
+			<div><img src="./img/covid-19.jpg"  width="300px" alt=""></div>
+			<div><img src="./img/conbater.jpg"  width="300px" alt=""></div>
+			<div><img src="./img/maos.png"  width="300px" alt=""></div>	
+			</div>
+
+				<p>Proteja a si mesmo e as pessoas ao seu redor conhecendo os fatos e tomando as precauções apropriadas. Siga os conselhos da autoridade local de saúde.</p>
+				<strong>Para evitar a propagação da COVID-19, faça o seguinte:</strong>
+				<li>Lave suas mãos com frequência. Use sabão e água ou álcool em gel.</li>
+				<li>Mantenha uma distância segura de pessoas que estiverem tossindo ou espirrando.</li>
+				<li>Use máscara quando não for possível manter o distanciamento físico.</li>
+				<li>Não toque nos olhos, no nariz ou na boca.</li>
+				<li>Cubra seu nariz e boca com o braço dobrado ou um lenço ao tossir ou expirar.</li>
+				<li>Fique em casa se você se sentir indisposto.</li>
+				<li>Procure atendimento médico se tiver febre, tosse e dificuldade para respirar.</li><br>
+				
+	</main>
+
+
+	<footer>
+	       &copy; Copyright 2021 Covid-19
+    </footer>
+  <script src="./javascript/js.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+<script type="text/javascript">
+	$('.carrossels').slick({
+		dots:true,
+		Infinite:true,
+		slideToShow:1,
+		speed:500,
+		autoplay:true,
+		autoplaySpeedy:500,
+
+	});
+</script> 
+</body>
+</html>

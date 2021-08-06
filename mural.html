@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--<meta name="viewport" content="width=" initial-scale="1.0">-->
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<title>Portal de notícias</title>
+</head>
+<body>
+
+	<header id="header">
+		<a id="logo" href="">Portal de notícias Campos do Jordão- Covid-19</a>
+		<nav id="nav">
+			<button aria-label="Abrir Menu" id="btn-mobile" aria-haspopup="true" aria-controls= "menu" aria-expanded="false">Menu
+				<span id="hamburger"></span>				
+			</button>
+			<ul id="menu" role="menu">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="mundial.html">Mundial</a></li>
+				<li><a href="prevencao.html">Prevenção</a></li>
+				<li><a href="mural.html">Mural</a></li>
+				<li><a href="contato.html">Contato</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+<main>
+	<h1>Mural de Recados</h1>
+	<h2><strong>Deixe seu recado para que possamos melhorar nosso serviço de informação:</strong></h2>
+	<form id="formulario" action="">
+
+<p id="form1">	Data: <input type="date" name="data" id="data" ></p> 
+<p id="form1">Nome: <input type="texto" name="nome" id="nome" > </p> 
+	<textarea rows="6" style="width: 30em" id="item" name="item" > Digite seu texto aqui... </textarea><br>
+	
+	
+	<button class="botao1" type="button" onclick="adicionar();limpar();">Adicionar</button>
+
+	<button class="botao1" type="button" onclick="removerItem();">Remover</button>
+	</form>
+	<div id="lista">
+		
+		<strong>Recados postados:</strong>
+		<ul id="minhaLista">	
+		
+		</ul>
+		<br>
+	</div>
+
+</main>
+<footer>
+	&copy; Copyright 2021 Covid-19
+</footer>
+<script src="./javascript/lista.js"></script>
+ 
+</body>
+</html>
